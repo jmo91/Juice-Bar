@@ -361,7 +361,11 @@ form{
     padding: 9% 0;
 }
 
-
+.green-pic{
+    margin: auto;
+    width: 280px;
+    padding: 5% 0;
+}
 
 
 
@@ -677,6 +681,12 @@ form{
         top: 630px;
         position: fixed;
     }
+
+    .white-section{
+        text-align: center;
+    }
+  
+   
 }
      
 
@@ -712,8 +722,18 @@ form{
     height: 377px;
     width: 280px;
 }
-.green-sec img{
-margin-left: 12%;
+
+
+.pink-bar{
+    text-align: center;
+}
+
+.sec-2{
+    text-align: center;
+}
+
+.green-sec-2, .sect-3, .follow{
+    text-align: center;
 }
 
   }
